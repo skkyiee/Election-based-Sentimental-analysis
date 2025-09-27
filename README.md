@@ -1,9 +1,4 @@
 # Election-prediction-using-sentimental-analysis
-## Project Structure
-## 1. miniproj3.ipynb
-
-### Purpose: 
-Data scraping, cleaning, and sentiment labelling
 
 ### Details:
 Scrapes tweets related to political parties (BJP, Congress).
@@ -53,5 +48,6 @@ miniproj3.ipynb: Run notebook to preprocess data.
 Model1-GloVe.ipynb & Model2-LSTM.ipynb: Train and evaluate models. Compare performance.
 
 testing.ipynb: Use the best model (from Model2-LSTM by default) to predict sentiment on fresh data.
+
 
 
