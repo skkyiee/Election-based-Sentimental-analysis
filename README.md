@@ -43,11 +43,12 @@ Outputs the number of positive tweets for each party as a proxy for public senti
 
 ## How to Run
 
-miniproj3.ipynb: Run notebook to preprocess data.
+preprocess.ipynb: Run notebook to preprocess data.
 
 Model1-GloVe.ipynb & Model2-LSTM.ipynb: Train and evaluate models. Compare performance.
 
 testing.ipynb: Use the best model (from Model2-LSTM by default) to predict sentiment on fresh data.
+
 
 
 
